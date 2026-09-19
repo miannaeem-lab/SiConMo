@@ -1,7 +1,7 @@
 <div align="center">
 
 # When Simplicity Wins: Bottleneck-Aware Context Modeling for Lightweight Semantic Segmentation
-🏆 **Top 3% and 🔦 Spotlight Paper Distinction**
+🏆 **Best Student Paper Award, 🌟 Top 3% and 🔦 Spotlight Paper Distinction**
 
 **Authors:** Mian Muhammad Naeem Abid, Nancy Mehta, Zongwei Wu, Radu Timofte
 
